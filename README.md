@@ -17,7 +17,7 @@
 
 <!-- FOTO -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/260579603" width="140" />
+  <img src="https://avatars.githubusercontent.com/u/260579603" width="140" style="border-radius: 20px;">
 </p>
 
 ---
