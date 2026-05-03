@@ -86,6 +86,7 @@ Seguir creciendo como desarrollador frontend construyendo proyectos más complet
 </p>
 
 ---
+
 <h2 align="center">🐍 Actividad</h2>
 
 <p align="center">
