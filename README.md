@@ -17,7 +17,7 @@
 
 <!-- FOTO -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/260579603" width="140" style="border-radius: 20px;">
+  <img src="https://avatars.githubusercontent.com/u/260579603" width="140" height="140" style="border-radius:20px; display:inline-block; overflow:hidden;">
 </p>
 
 ---
@@ -42,7 +42,7 @@ Me especializo en HTML y CSS, creando interfaces limpias, estructuradas y visual
 <!-- PROYECTO DESTACADO -->
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
       <strong>🎮 Top 5 Juegos Indie</strong><br><br>
@@ -77,6 +77,15 @@ Seguir creciendo como desarrollador frontend construyendo proyectos más complet
 
 ---
 
+<h2 align="center">🏆 Trofeos y Logros</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nm1412xx&theme=onedark&column=8&margin-w=15&margin-h=15&no-bg=true" alt="nm1412xx trophies" />
+  </a>
+</p>
+
+---
 <h2 align="center">🐍 Actividad</h2>
 
 <p align="center">
