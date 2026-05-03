@@ -57,7 +57,7 @@ Me especializo en HTML y CSS, creando interfaces limpias, estructuradas y visual
     <td width="50%" align="center" valign="top">
       <strong>🗾 Galería de Japón</strong><br><br>
       <a href="https://nm1412xx.github.io/japan/" target="_blank">
-        <img src="img/japonn.jpg" width="100%" style="border-radius:10px;" />
+        <img src="img/japon.jpg" width="100%" style="border-radius:10px;" />
       </a>
       <p align="center">
         <br>
