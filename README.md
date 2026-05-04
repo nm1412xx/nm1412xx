@@ -108,7 +108,7 @@ Seguir creciendo como desarrollador frontend construyendo proyectos más complet
     <img src="https://img.shields.io/badge/Instagram-@nm1412xx-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <br><br>
-  <a href="mailto:nm1412xx@gmail.com?subject=Contacto%20desde%20GitHub&body=Hola%20Nicolás,%20vi%20tu%20perfil%20y%20me%20gustaría%20contactarte.">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nm1412xx@gmail.com&su=Oportunidad%20laboral%20-%20Perfil%20GitHub&body=Estimado%20Nicol%C3%A1s%2C%0A%0AMi%20nombre%20es%20[Nombre]%20y%20te%20contacto%20en%20representaci%C3%B3n%20de%20[Empresa].%20Hemos%20revisado%20tu%20perfil%20en%20GitHub%20y%20nos%20ha%20interesado%20tu%20trabajo%20y%20habilidades%20como%20desarrollador.%0A%0ANos%20gustar%C3%ADa%20explorar%20la%20posibilidad%20de%20una%20colaboraci%C3%B3n%20o%20proceso%20de%20selecci%C3%B3n%20contigo.%0A%0AQuedamos%20atentos%20a%20tu%20respuesta.%0A%0ASaludos%20cordiales%2C%0A[Nombre%20del%20reclutador]%0A[Empresa]%0A[Cargo]%0A[Contacto]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
