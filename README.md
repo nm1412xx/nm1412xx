@@ -102,7 +102,7 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
 <h2 align="center">📈 Visitas</h2>
 
 <p align="center">
-  <img src="https://count.getloli.com/@nm1412xx?name=nm1412xx&theme=booru-rfck&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&num=1006" />
+  <img src="https://camo.githubusercontent.com/b90d9c5409ca3363b6b60d1e0ae77e63a78771029d1b3f24ccc1ff96c7774352/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f406e6d3134313278783f6e616d653d6e6d313431327878267468656d653d6d696e6563726166742670616464696e673d36266f66667365743d3026616c69676e3d746f70267363616c653d302e3926706978656c617465643d31266461726b6d6f64653d31" />
 </p>
 
 ---
