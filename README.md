@@ -1,7 +1,8 @@
-<!-- PROFILE HEADER -->
+<!-- HERO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Nicolás%20Mejías&fontSize=44&fontColor=ffffff&animation=fadeIn&theme=onedark" />
 </p>
+
 
 <!-- TYPING -->
 <p align="center">
@@ -39,7 +40,7 @@ Me especializo en HTML y CSS, creando interfaces limpias, estructuradas y visual
 
 ---
 
-<!-- PROYECTO DESTACADO -->
+<!-- PROYECTOS -->
 <h2 align="center">🚀 Proyectos Destacados</h2>
 
 <table align="center" width="100%">
@@ -47,28 +48,25 @@ Me especializo en HTML y CSS, creando interfaces limpias, estructuradas y visual
     <td width="50%" align="center" valign="top">
       <strong>🎮 Top 5 Juegos Indie</strong><br><br>
       <a href="https://nm1412xx.github.io/top-5-indi/" target="_blank">
-        <img src="img/top-5.jpg" width="100%" style="border-radius:10px;" />
+        <img src="img/top-5.jpg" width="100%" />
       </a>
-      <p align="center">
-        <br>
-        Proyecto web desarrollado con HTML/CSS enfocado en jerarquía visual y ranking de videojuegos.
+      <p align="center"><br>
+        Proyecto frontend con HTML y CSS enfocado en ranking y jerarquía visual.
       </p>
     </td>
-    <td width="50%" align="center" valign="top">
+      <td width="50%" align="center" valign="top">
       <strong>🗾 Galería de Japón</strong><br><br>
       <a href="https://nm1412xx.github.io/japan/" target="_blank">
-        <img src="img/japon.jpg" width="100%" style="border-radius:10px;" />
+        <img src="img/japon.jpg" width="100%" />
       </a>
-      <p align="center">
-        <br>
-        Web informativa centrada en diseño limpio y organización estructurada de destinos turísticos.
+      <p align="center"><br>
+        Web informativa con enfoque en diseño limpio y estructura de contenido.
       </p>
     </td>
   </tr>
 </table>
 
 ---
-
 <h2 align="center">🎯 Objetivo</h2>
 
 <p align="center">
