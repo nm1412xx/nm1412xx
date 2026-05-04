@@ -76,14 +76,9 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
 
 <h2 align="center">🏆 Trofeos y Logros</h2>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nm1412xx&theme=onedark&column=8&margin-w=15&margin-h=15&no-bg=true" alt="nm1412xx trophies" />
-  </a>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=nm1412xx&theme=onedark&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
 
 ---
-
 <h2 align="center">🔥 Racha de Contribuciones</h2>
 
 <p align="center">
@@ -104,8 +99,8 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
 <p align="center">
   <img src="https://count.getloli.com/@nm1412xx?name=nm1412xx&theme=normal-2&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
 </p>
----
 
+---
 <h2 align="center">🤝 ¿Colaboramos?</h2>
 
 <p align="center">
@@ -125,20 +120,28 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
   </a>
 </p>
 
+<h2 align="center">📬 Contacto</h2>
+
+<p align="center">
+  <!-- Instagram -->
+  <a href="https://instagram.com/nm1412xx" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@nm1412xx-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
 <p align="center">
   Si eres de <b>celular</b>, haz click en este botón para redactar un correo directamente en tu app de correo predeterminada:<br><br>
   <a href="mailto:nm1412xx@gmail.com?subject=Oportunidad%20en%20%5BNombre%20de%20la%20empresa%5D%20%E2%80%94%20Nos%20interesa%20tu%20trabajo%20en%20GitHub&body=Hola%20Nicolas%3A%0A%0AEspero%20que%20est%C3%A9s%20bien.%20Mi%20nombre%20es%20%5BTu%20nombre%5D%20y%20soy%20%5BTu%20cargo%5D%20en%20%5BNombre%20de%20la%20empresa%5D.%0A%0ARecientemente%20revisamos%20tu%20perfil%20de%20GitHub%20y%20quedamos%20muy%20impresionados%20con%20tu%20trabajo%20en%20%5Bmenciona%20proyecto%20o%20tecnolog%C3%ADa%20espec%C3%ADfica%20si%20aplica%5D.%20Tu%20experiencia%20y%20enfoque%20nos%20parecen%20muy%20alineados%20con%20lo%20que%20buscamos%20en%20el%20equipo.%0A%0AEn%20%5BNombre%20de%20la%20empresa%5D%20estamos%20%5Bbreve%20descripci%C3%B3n%20de%20lo%20que%20hace%20la%20empresa%20%2F%20el%20proyecto%5D.%20Por%20eso%2C%20nos%20gustar%C3%ADa%20explorar%20la%20posibilidad%20de%20que%20colabores%20con%20nosotros%20%5Bcomo%20empleado%20%2F%20contratista%20%2F%20freelancer%2C%20seg%C3%BAn%20aplique%5D.%0A%0A%C2%BFTendr%C3%ADas%20disponibilidad%20para%20una%20breve%20llamada%20esta%20semana%20o%20la%20siguiente%20para%20conocerte%20mejor%20y%20contarte%20m%C3%A1s%20detalles%20sobre%20la%20oportunidad%3F%0A%0AQuedo%20atento%20a%20tu%20respuesta.%0A%0ASaludos%20cordiales%2C%0A%5BTu%20nombre%5D%0A%5BTu%20cargo%5D%0A%5BNombre%20de%20la%20empresa%5D">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📱_App_de_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
   Si eres de <b>PC</b>, haz click en este botón para redactarme un correo en <b>Gmail Web</b>:<br><br>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nm1412xx@gmail.com&su=Oportunidad%20en%20%5BNombre%20de%20la%20empresa%5D%20%E2%80%94%20Nos%20interesa%20tu%20trabajo%20en%20GitHub&body=Hola%20Nicolas%3A%0A%0AEspero%20que%20est%C3%A9s%20bien.%20Mi%20nombre%20es%20%5BTu%20nombre%5D%20y%20soy%20%5BTu%20cargo%5D%20en%20%5BNombre%20de%20la%20empresa%5D.%0A%0ARecientemente%20revisamos%20tu%20perfil%20de%20GitHub%20y%20quedamos%20muy%20impresionados%20con%20tu%20trabajo%20en%20%5Bmenciona%20proyecto%20o%20tecnolog%C3%ADa%20espec%C3%ADfica%20si%20aplica%5D.%20Tu%20experiencia%20y%20enfoque%20nos%20parecen%20muy%20alineados%20con%20lo%20que%20buscamos%20en%20el%20equipo.%0A%0AEn%20%5BNombre%20de%20la%20empresa%5D%20estamos%20%5Bbreve%20descripci%C3%B3n%20de%20lo%20que%20hace%20la%20empresa%20%2F%20el%20proyecto%5D.%20Por%20eso%2C%20nos%20gustar%C3%ADa%20explorar%20la%20posibilidad%20de%20que%20colabores%20con%20nosotros%20%5Bcomo%20empleado%20%2F%20contratista%20%2F%20freelancer%2C%20seg%C3%BAn%20aplique%5D.%0A%0A%C2%BFTendr%C3%ADas%20disponibilidad%20para%20una%20breve%20llamada%20esta%20semana%20o%20la%20siguiente%20para%20conocerte%20mejor%20y%20contarte%20m%C3%A1s%20detalles%20sobre%20la%20oportunidad%3F%0A%0AQuedo%20atento%20a%20tu%20respuesta.%0A%0ASaludos%20cordiales%2C%0A%5BTu%20nombre%5D%0A%5BTu%20cargo%5D%0A%5BNombre%20de%20la%20empresa%5D" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💻_Gmail_Web-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
 
 <!-- CIERRE -->
 <p align="center">
