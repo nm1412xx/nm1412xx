@@ -96,7 +96,7 @@ Seguir creciendo como desarrollador frontend construyendo proyectos más complet
 <h2 align="center">📈 Visitas</h2>
 
 <p align="center">
-  <img src="https://count.getloli.com/@:nm1412xx?theme=ai-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" />
+  <img src="https://count.getloli.com/@nm1412xx?name=nm1412xx&theme=minecraft&padding=6&offset=0&align=top&scale=0.9&pixelated=1&darkmode=1" />
 </p>
 
 ---
