@@ -70,7 +70,7 @@ Me especializo en HTML y CSS, creando interfaces limpias, estructuradas y visual
 <h2 align="center">🎯 Objetivo</h2>
 
 <p align="center">
-Seguir creciendo como desarrollador frontend construyendo proyectos más completos y mejorando mis habilidades en diseño y experiencia de usuario.
+Seguir creciendo como desarrollador frontend, construyendo proyectos más completos y mejorando mis habilidades en diseño y experiencia de usuario.
 </p>
 
 ---
@@ -85,6 +85,13 @@ Seguir creciendo como desarrollador frontend construyendo proyectos más complet
 
 ---
 
+<h2 align="center">🔥 Racha de Contribuciones</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nm1412xx&theme=onedark" alt="Streak Stats" />
+</p>
+
+---
 <h2 align="center">🐍 Actividad</h2>
 
 <p align="center">
