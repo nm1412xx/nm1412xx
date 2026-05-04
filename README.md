@@ -17,7 +17,7 @@
 
 <!-- FOTO -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/260579603" width="140" height="140" style="border-radius:20px; display:inline-block; overflow:hidden;">
+  <img src="img/gato-elegante.jpg" width="165" height="165">
 </p>
 
 ---
