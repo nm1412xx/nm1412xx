@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Nicolás%20Mejías&fontSize=44&fontColor=ffffff&animation=fadeIn&theme=onedark" />
 </p>
 
-
 <!-- TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Desarrollador+Web;HTML+%2B+CSS;Proyectos+personales;Aprendiendo+y+creando+cada+día" />
@@ -26,7 +25,7 @@
 <h2 align="center">🧑‍💻 Sobre mí</h2>
 
 <p align="center">
-Estudiante de segundo año medio enfocado en desarrollo web frontend.  
+Estudiante de segundo año medio enfocado en desarrollo web frontend.<br>
 Me especializo en HTML y CSS, creando interfaces limpias, estructuradas y visualmente claras.
 </p>
 
@@ -54,7 +53,7 @@ Me especializo en HTML y CSS, creando interfaces limpias, estructuradas y visual
         Proyecto frontend con HTML y CSS enfocado en ranking y jerarquía visual.
       </p>
     </td>
-      <td width="50%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <strong>🗾 Galería de Japón</strong><br><br>
       <a href="https://nm1412xx.github.io/japan/" target="_blank">
         <img src="img/japon.jpg" width="100%" />
@@ -115,7 +114,7 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
     <img src="https://img.shields.io/badge/Instagram-@nm1412xx-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <br><br>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nm1412xx@gmail.com&su=Oportunidad%20laboral%20-%20Perfil%20GitHub&body=Estimado%20Nicol%C3%A1s%2C%0A%0AMi%20nombre%20es%20[Nombre]%20y%20te%20contacto%20en%20representaci%C3%B3n%20de%20[Empresa].%20Hemos%20revisado%20tu%20perfil%20en%20GitHub%20y%20nos%20ha%20interesado%20tu%20trabajo%20y%20habilidades%20como%20desarrollador.%0A%0ANos%20gustar%C3%ADa%20explorar%20la%20posibilidad%20de%20una%20colaboraci%C3%B3n%20o%20proceso%20de%20selecci%C3%B3n%20contigo.%0A%0AQuedamos%20atentos%20a%20tu%20respuesta.%0A%0ASaludos%20cordiales%2C%0A[Nombre%20del%20reclutador]%0A[Empresa]%0A[Cargo]%0A[Contacto]">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nm1412xx@gmail.com&su=Oportunidad%20laboral%20-%20Perfil%20GitHub&body=Estimado%20Nicol%C3%A1s%2C%0A%0AMi%20nombre%20es%20[Nombre]%20y%20te%20contacto%20en%20representaci%C3%B3n%20de%20[Empresa].%20Hemos%20revisado%20tu%20perfil%20en%20GitHub%20y%20nos%20ha%20interesado%20tu%20trabajo%20y%20habilidades%20como%20desarrollador.">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
