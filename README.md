@@ -132,8 +132,8 @@ Si eres de <b>celular</b>, haz click en este botón para redactar un correo dire
 </a>
 <br><br>
 Si eres de <b>PC</b>, haz click en este botón para redactarme un correo en <b>Gmail Web</b>:<br><br>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nm1412xx@gmail.com&su=Oportunidad%20laboral%20-%20Perfil%20GitHub" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nm1412xx@gmail.com&su=Oportunidad%20laboral%20-%20Perfil%20GitHub" target="_blank" aling="center">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" aling="center"/>
 </a>
 </p>
 <!-- CIERRE -->
