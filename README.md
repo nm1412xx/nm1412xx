@@ -141,13 +141,6 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
 </p>
 
 
-<p align="center">
-  Si eres de <b>PC</b>, haz click en este botón para redactarme un correo en <b>Gmail Web</b>:<br><br>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nm1412xx@gmail.com&su=Oportunidad%20laboral%20-%20Perfil%20GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 <!-- CIERRE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Gracias%20por%20ver&fontSize=32&fontColor=ffffff&animation=fadeIn&theme=onedark" />
