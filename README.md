@@ -102,9 +102,8 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
 <h2 align="center">📈 Visitas</h2>
 
 <p align="center">
-  <img src="https://count.getloli.com/@nm1412xx?name=nm1412xx&theme=capoo-2&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+  <img src="https://count.getloli.com/@nm1412xx?name=nm1412xx&theme=normal-2&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
 </p>
-
 ---
 
 <h2 align="center">🤝 ¿Colaboramos?</h2>
