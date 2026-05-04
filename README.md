@@ -120,13 +120,28 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
 <h2 align="center">📬 Contacto</h2>
 
 <p align="center">
+  <!-- Instagram -->
   <a href="https://instagram.com/nm1412xx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@nm1412xx-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <br><br>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nm1412xx@gmail.com&su=Oportunidad%20laboral%20-%20Perfil%20GitHub&body=Estimado%20Nicol%C3%A1s%2C%0A%0AMi%20nombre%20es%20[Nombre]%20y%20te%20contacto%20en%20representaci%C3%B3n%20de%20[Empresa].%20Hemos%20revisado%20tu%20perfil%20en%20GitHub%20y%20nos%20ha%20interesado%20tu%20trabajo%20y%20habilidades%20como%20desarrollador.">
+  
+  &nbsp;&nbsp;
+
+  <!-- Link directo a la app de correo (mailto) -->
+  <a href="mailto:nm1412xx@gmail.com?subject=Oportunidad%20laboral%20-%20Perfil%20GitHub&body=Hola Nicolás,">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
+  &nbsp;&nbsp;
+  
+  <!-- Link a Gmail web -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nm1412xx@gmail.com&su=Oportunidad%20laboral%20-%20Perfil%20GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  📱 Celular → abre tu app de correo | 💻 PC → abre Gmail Web
 </p>
 
 <!-- CIERRE -->
