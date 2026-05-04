@@ -66,6 +66,7 @@ Me especializo en HTML y CSS, creando interfaces limpias, estructuradas y visual
 </table>
 
 ---
+
 <h2 align="center">🎯 Objetivo</h2>
 
 <p align="center">
@@ -76,9 +77,12 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
 
 <h2 align="center">🏆 Trofeos y Logros</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=nm1412xx&theme=onedark&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nm1412xx&theme=onedark&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+</p>
 
 ---
+
 <h2 align="center">🔥 Racha de Contribuciones</h2>
 
 <p align="center">
@@ -86,6 +90,7 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
 </p>
 
 ---
+
 <h2 align="center">🐍 Actividad</h2>
 
 <p align="center">
@@ -101,6 +106,7 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
 </p>
 
 ---
+
 <h2 align="center">🤝 ¿Colaboramos?</h2>
 
 <p align="center">
@@ -114,16 +120,6 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
 <h2 align="center">📬 Contacto</h2>
 
 <p align="center">
-  <!-- Instagram -->
-  <a href="https://instagram.com/nm1412xx" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@nm1412xx-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-<h2 align="center">📬 Contacto</h2>
-
-<p align="center">
-  <!-- Instagram -->
   <a href="https://instagram.com/nm1412xx" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@nm1412xx-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
