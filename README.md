@@ -94,7 +94,7 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
 <h2 align="center">🐍 Actividad</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/nm1412xx/nm1412xx/output/snake.svg" />
 </p>
 
 ---
