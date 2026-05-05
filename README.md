@@ -46,43 +46,71 @@
   Estos son algunos de mis proyectos frontend publicados en GitHub Pages.
 </p>
 
+<!-- ================= FILA 1 ================= -->
 <table align="center" width="100%">
   <tr>
-    <!-- ================= PROYECTO 1 ================= -->
+    <!-- PROYECTO 1 -->
     <td width="50%" align="center" valign="top">
       <h3>🎮 Top 5 Juegos Indie</h3>
       <a href="https://nm1412xx.github.io/top-5-indi/" target="_blank">
         <img src="img/top-5.jpg" width="100%" />
       </a>
       <p>
-        Ranking visual de videojuegos indie, trabajado con enfoque en jerarquía visual,
-        organización del contenido y diseño frontend.
+        Ranking visual de videojuegos indie con enfoque en jerarquía visual
+        y organización del contenido.
       </p>
       <p>
         <b>Stack:</b> HTML · CSS<br>
-        <b>Demo:</b> <a href="https://nm1412xx.github.io/top-5-indi/" target="_blank">Ver sitio</a>
+        <b>Demo:</b> 
+        <a href="https://nm1412xx.github.io/top-5-indi/" target="_blank">Ver sitio</a>
       </p>
     </td>
-    <!-- ================= PROYECTO 2 ================= -->
+    <!-- PROYECTO 2 -->
     <td width="50%" align="center" valign="top">
       <h3>🗾 Galería de Japón</h3>
       <a href="https://nm1412xx.github.io/japan/" target="_blank">
         <img src="img/japon.jpg" width="100%" />
       </a>
       <p>
-        Sitio informativo sobre Japón, enfocado en diseño limpio,
-        estructura de secciones y presentación visual del contenido.
+        Sitio informativo sobre Japón con diseño limpio
+        y estructura clara.
       </p>
       <p>
         <b>Stack:</b> HTML · CSS<br>
-        <b>Demo:</b> <a href="https://nm1412xx.github.io/japan/" target="_blank">Ver sitio</a>
+        <b>Demo:</b> 
+        <a href="https://nm1412xx.github.io/japan/" target="_blank">Ver sitio</a>
       </p>
     </td>
+
+  </tr>
+</table>
+
+<br>
+
+<!-- ================= FILA 2 (CENTRADO) ================= -->
+<table align="center" width="60%">
+  <tr>
+    <!-- PROYECTO 3 -->
+    <td align="center" valign="top">
+      <h3>🪪 Tarjeta Personal</h3>
+      <a href="https://nm1412xx.github.io/tarjeta/" target="_blank">
+        <img src="img/portafolio.jpg" width="100%" />
+      </a>
+      <p>
+        Tarjeta web con diseño moderno enfocada en identidad visual
+        y presentación personal.
+      </p>
+      <p>
+        <b>Stack:</b> HTML · CSS<br>
+        <b>Demo:</b> 
+        <a href="https://nm1412xx.github.io/tarjeta/" target="_blank">Ver sitio</a>
+      </p>
+    </td>
+
   </tr>
 </table>
 
 ---
-
 <!-- ================= OBJETIVO ================= -->
 <h2 align="center">🎯 Objetivo</h2>
 
