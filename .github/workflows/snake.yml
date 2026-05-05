@@ -1,0 +1,22 @@
+name: Generate Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: nm1412xx
+          outputs: |
+            github-output/snake.svg
+            github-output/snake-dark.svg?palette=github-dark
