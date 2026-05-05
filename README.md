@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Nicolás%20Mejías&fontSize=44&fontColor=ffffff&animation=fadeIn&theme=onedark" />
     <source media="(prefers-color-scheme: light)" 
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Nicolás%20Mejías&fontSize=44&fontColor=000000&animation=fadeIn&theme=default" />
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Nicolás%20Mejías&fontSize=44&fontColor=000000&animation=fadeIn&theme=graywhite" />
       <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Nicolás%20Mejías&fontSize=44&fontColor=ffffff&animation=fadeIn&theme=onedark" />
   </picture>
 </p>
@@ -177,7 +177,8 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Gracias%20por%20ver&fontSize=32&fontColor=ffffff&animation=fadeIn&theme=onedark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Gracias%20por%20ver&fontSize=32&fontColor=000000&animation=fadeIn&theme=default" />
+     <source media="(prefers-color-scheme: light)" 
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Gracias%20por%20ver&fontSize=32&fontColor=000000&animation=fadeIn&theme=graywhite" />
     <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Gracias%20por%20ver&fontSize=32&fontColor=ffffff&animation=fadeIn&theme=onedark" />
   </picture>
 </p>
