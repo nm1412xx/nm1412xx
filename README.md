@@ -50,7 +50,7 @@
 <table align="center" width="100%">
   <tr>
     <!-- PROYECTO 1 -->
-    <td align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <h3>🪪 Tarjeta Personal</h3>
       <a href="https://nm1412xx.github.io/tarjeta/" target="_blank">
         <img src="img/portafolio.jpg" width="100%" />
@@ -102,7 +102,7 @@
 
 <table align="center" width="80%">
   <tr>
-  <td width="50%" align="center" valign="top">
+  <td align="center" valign="top">
       <h3>🎮 Top 5 Juegos Indie</h3>
       <a href="https://nm1412xx.github.io/top-5-indi/" target="_blank">
         <img src="img/top-5.jpg" width="100%" />
