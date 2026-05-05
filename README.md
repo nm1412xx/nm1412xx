@@ -121,14 +121,18 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nm1412xx&theme=onedark&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=nm1412xx&theme=graywhite&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nm1412xx&theme=onedark&hide_border=true" />
+    <!-- DARK -->
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=nm1412xx&theme=onedark&hide_border=true&border_radius=10&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+    <!-- LIGHT -->
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=nm1412xx&theme=graywhite&hide_border=true&border_radius=10" />
+    <!-- FALLBACK -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nm1412xx&theme=onedark&hide_border=true&border_radius=10" />
   </picture>
 </p>
 
 ---
-
 <!-- ================= SNAKE ================= -->
 <h2 align="center">🐍 Actividad</h2>
 
