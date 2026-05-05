@@ -94,11 +94,10 @@ Seguir creciendo como desarrollador frontend, construyendo proyectos más comple
 <h2 align="center">🐍 Actividad</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nm1412xx/nm1412xx/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/nm1412xx/nm1412xx/output/snake-dark.svg" />
 </p>
 
 ---
-
 <h2 align="center">📈 Visitas</h2>
 
 <p align="center">
