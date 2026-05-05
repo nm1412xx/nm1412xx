@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -16,8 +19,8 @@ jobs:
           github_user_name: nm1412xx
           outputs: dist/snake.svg
 
-      - name: Push snake to branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
