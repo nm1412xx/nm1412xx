@@ -111,6 +111,7 @@
 </table>
 
 ---
+
 <!-- ================= OBJETIVO ================= -->
 <h2 align="center">🎯 Objetivo</h2>
 
@@ -126,7 +127,7 @@
 <h2 align="center">📚 Actualmente aprendiendo</h2>
 
 <p align="center">
-  JavaScript básico · Responsive Design · UI/UX · Buenas prácticas frontend
+  JavaScript básico en aprendizaje · Responsive Design · UI/UX · Buenas prácticas frontend
 </p>
 
 ---
@@ -161,6 +162,7 @@
 </p>
 
 ---
+
 <!-- ================= SNAKE ================= -->
 <h2 align="center">🐍 Actividad</h2>
 
