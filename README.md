@@ -8,11 +8,11 @@
 </p>
 
 <!-- ================= PRESENTACIÓN ================= -->
-<h2 align="center">Hola, soy Nicolás 👋</h2>
+<h2 align="center">👨‍💻 Desarrollador Frontend en formación</h2>
 
 <p align="center">
   Desarrollador web frontend en formación.<br>
-  Me enfoco en crear sitios con HTML y CSS, cuidando la estructura, el diseño responsive y la claridad visual.
+  Me especializo en crear interfaces claras, ordenadas y visualmente efectivas usando HTML y CSS.
 </p>
 
 <p align="center">
@@ -50,19 +50,20 @@
 <table align="center" width="100%">
   <tr>
     <!-- PROYECTO 1 -->
-    <td width="50%" align="center" valign="top">
-      <h3>🎮 Top 5 Juegos Indie</h3>
-      <a href="https://nm1412xx.github.io/top-5-indi/" target="_blank">
-        <img src="img/top-5.jpg" width="100%" />
+    <td align="center" valign="top">
+      <h3>🪪 Tarjeta Personal</h3>
+      <a href="https://nm1412xx.github.io/tarjeta/" target="_blank">
+        <img src="img/portafolio.jpg" width="100%" />
       </a>
       <p>
-        Ranking visual de videojuegos indie con enfoque en jerarquía visual
-        y organización del contenido.
+        Tarjeta web con diseño moderno enfocada en identidad visual
+        y presentación personal.
       </p>
       <p>
+        <b>Tipo:</b> Tarjeta personal / presentación web<br>
         <b>Stack:</b> HTML · CSS<br>
         <b>Demo:</b> 
-        <a href="https://nm1412xx.github.io/top-5-indi/" target="_blank">Ver sitio</a>
+        <a href="https://nm1412xx.github.io/tarjeta/" target="_blank">Ver sitio</a>
       </p>
     </td>
     <!-- PROYECTO 2 -->
@@ -76,6 +77,7 @@
         y estructura clara.
       </p>
       <p>
+        <b>Tipo:</b> Sitio informativo / galería<br>
         <b>Stack:</b> HTML · CSS<br>
         <b>Demo:</b> 
         <a href="https://nm1412xx.github.io/japan/" target="_blank">Ver sitio</a>
@@ -87,26 +89,35 @@
 
 <br>
 
-<!-- ================= FILA 2 (CENTRADO) ================= -->
-<table align="center" width="60%">
+<h2 align="center">🔥 Proyecto Principal</h2>
+
+<h3 align="center">¿Por qué este y no otro proyecto?</h3>
+
+<p align="center">
+  Es el estelar porque demuestra más habilidades en un solo proyecto:
+  jerarquía visual, orden de contenido y toma de decisiones de diseño.<br>
+  Además, se entiende al instante y engancha, lo que genera más impacto
+  que un sitio solo informativo o una tarjeta.
+</p>
+
+<table align="center" width="80%">
   <tr>
-    <!-- PROYECTO 3 -->
-    <td align="center" valign="top">
-      <h3>🪪 Tarjeta Personal</h3>
-      <a href="https://nm1412xx.github.io/tarjeta/" target="_blank">
-        <img src="img/portafolio.jpg" width="100%" />
+  <td width="50%" align="center" valign="top">
+      <h3>🎮 Top 5 Juegos Indie</h3>
+      <a href="https://nm1412xx.github.io/top-5-indi/" target="_blank">
+        <img src="img/top-5.jpg" width="100%" />
       </a>
       <p>
-        Tarjeta web con diseño moderno enfocada en identidad visual
-        y presentación personal.
+        Ranking visual de videojuegos indie con enfoque en jerarquía visual
+        y organización del contenido.
       </p>
       <p>
+        <b>Tipo:</b> Proyecto visual / ranking<br>
         <b>Stack:</b> HTML · CSS<br>
         <b>Demo:</b> 
-        <a href="https://nm1412xx.github.io/tarjeta/" target="_blank">Ver sitio</a>
+        <a href="https://nm1412xx.github.io/top-5-indi/" target="_blank">Ver sitio</a>
       </p>
     </td>
-
   </tr>
 </table>
 
@@ -228,6 +239,11 @@
   </a>
 </p>
 
+---
+
+<p align="center">
+  🚀 En constante aprendizaje y mejora como desarrollador frontend
+</p>
 <!-- ================= FOOTER ================= -->
 <p align="center">
   <picture>
