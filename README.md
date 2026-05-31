@@ -1,181 +1,209 @@
-<!-- ================= HERO ================= -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Nicolás%20Mejías&fontSize=44&fontColor=ffffff&animation=fadeIn&theme=onedark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Nicolás%20Mejías&fontSize=44&fontColor=000000&animation=fadeIn&theme=graywhite" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=Nicolás%20Mejías&fontSize=44&fontColor=ffffff&animation=fadeIn&theme=onedark" />
-  </picture>
-</p>
+<div align="center">
 
-<!-- ================= PRESENTACIÓN ================= -->
-<h2 align="center">👨‍💻 Desarrollador Frontend en formación</h2>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=220&section=header&text=Nicolás%20Mejías&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=nm1412xx%20%7C%20Frontend%20en%20formación&descAlignY=58&descAlign=50)
 
-<p align="center">
-  Desarrollador web frontend en formación.<br>
-  Me especializo en crear interfaces claras, ordenadas y visualmente efectivas usando HTML y CSS.
-</p>
+# 👨‍💻 Desarrollador Frontend en formación
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=650&lines=Desarrollador+Web;HTML+%2B+CSS;Diseño+Frontend;Proyectos+personales;Aprendiendo+y+creando+cada+día"  alt="Foto de perfil"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Estudiante+aprendiendo+desarrollo+web;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript;Creando+interfaces+limpias+y+ordenadas;Mejorando+proyecto+a+proyecto" alt="Typing SVG" />
 
-<!-- ================= FOTO ================= -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/260579603" width="160" height="160" />
-</p>
+</div>
 
 ---
 
-<!-- ================= TECNOLOGÍAS ================= -->
-<h2 align="center">🛠️ Tecnologías y herramientas</h2>
+## 🧑‍💻 Sobre mí
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,github,vscode" />
-</p>
+Soy **Nicolás Mejías**, estudiante y desarrollador frontend en formación.  
+Estoy aprendiendo a crear sitios web claros, ordenados y visualmente atractivos usando **HTML**, **CSS** y **JavaScript**.
 
-<p align="center">
-  HTML · CSS · Python · GitHub · Visual Studio Code
-</p>
+Me gusta construir proyectos desde cero, mejorar su diseño, ordenar el código y publicarlos en **GitHub Pages** para verlos funcionando como páginas reales.
 
 ---
 
-<!-- ================= PROYECTOS ================= -->
-<h2 align="center">🚀 Proyectos destacados</h2>
+## 🛠️ Tecnologías y herramientas
 
-<p align="center">
-  Estos son algunos de mis proyectos frontend publicados en GitHub Pages.
-</p>
+<div align="center">
 
-<!-- ================= FILA 1 ================= -->
-<table align="center" width="100%">
-  <tr>
-    <!-- PROYECTO 1 -->
-    <td width="50%" align="center" valign="top">
-      <h3>🪪 Tarjeta Personal</h3>
-      <a href="https://nm1412xx.github.io/tarjeta/" target="_blank">
-        <img src="img/portafolio.jpg" width="100%"  alt="Captura de pantalla de el sito de https://nm1412xx.github.io/tarjeta/"/>
-      </a>
-      <p>
-        Tarjeta web con diseño moderno enfocada en identidad visual
-        y presentación personal.
-      </p>
-      <p>
-        <b>Tipo:</b> Tarjeta personal / presentación web<br>
-        <b>Stack:</b> HTML · CSS<br>
-        <b>Demo:</b> 
-        <a href="https://nm1412xx.github.io/tarjeta/" target="_blank">Ver sitio</a>
-      </p>
-    </td>
-    <!-- PROYECTO 2 -->
-    <td width="50%" align="center" valign="top">
-      <h3>🗾 Galería de Japón</h3>
-      <a href="https://nm1412xx.github.io/japan/" target="_blank">
-        <img src="img/japon.jpg" width="100%" alt="Captura de pantalla de el sito de https://nm1412xx.github.io/japan/"/>
-      </a>
-      <p>
-        Sitio informativo sobre Japón con diseño limpio
-        y estructura clara.
-      </p>
-      <p>
-        <b>Tipo:</b> Sitio informativo / galería<br>
-        <b>Stack:</b> HTML · CSS<br>
-        <b>Demo:</b> 
-        <a href="https://nm1412xx.github.io/japan/" target="_blank">Ver sitio</a>
-      </p>
-    </td>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode" alt="Tecnologías" />
 
-  </tr>
-</table>
+<br><br>
 
-<br>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-en%20aprendizaje-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<h2 align="center">🔥 Proyecto Principal</h2>
-
-<h3 align="center">¿Por qué este y no otro proyecto?</h3>
-
-<p align="center">
-  Es el estelar porque demuestra más habilidades en un solo proyecto:
-  jerarquía visual, orden de contenido y toma de decisiones de diseño.<br>
-  Además, se entiende al instante y engancha, lo que genera más impacto
-  que un sitio solo informativo o una tarjeta.
-</p>
-
-<table align="center" width="80%">
-  <tr>
-  <td align="center" valign="top">
-      <h3>🎮 Top 5 Juegos Indie</h3>
-      <a href="https://nm1412xx.github.io/top-5-indi/" target="_blank">
-        <img src="img/top-5.jpg" width="100%"  alt="Captura de pantalla de el sito de https://nm1412xx.github.io/top-5-indi/"/>
-      </a>
-      <p>
-        Ranking visual de videojuegos indie con enfoque en jerarquía visual
-        y organización del contenido.
-      </p>
-      <p>
-        <b>Tipo:</b> Proyecto visual / ranking<br>
-        <b>Stack:</b> HTML · CSS<br>
-        <b>Demo:</b> 
-        <a href="https://nm1412xx.github.io/top-5-indi/" target="_blank">Ver sitio</a>
-      </p>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-<!-- ================= OBJETIVO ================= -->
-<h2 align="center">🎯 Objetivo</h2>
+## 🚀 Proyectos destacados
 
-<p align="center">
-  Seguir mejorando como desarrollador frontend, creando proyectos más completos,
-  aprendiendo nuevas herramientas y fortaleciendo mis habilidades en diseño web,
-  estructura visual y experiencia de usuario.
-</p>
+Estos son algunos de mis proyectos frontend publicados con **GitHub Pages**.
 
 ---
 
-<!-- ================= APRENDIENDO ================= -->
-<h2 align="center">📚 Actualmente aprendiendo</h2>
+### 🕹️ Proyecto principal: Top 5 Juegos Indie
 
-<p align="center">
-  JavaScript básico en aprendizaje · Responsive Design · UI/UX · Buenas prácticas frontend
-</p>
+Ranking visual de videojuegos indie con enfoque en jerarquía visual, imágenes, estructura clara y presentación ordenada del contenido.
 
----
-
-<!-- ================= TROFEOS ================= -->
-<h2 align="center">🏆 Trofeos y logros</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=nm1412xx&theme=onedark&no-bg=true&no-frame=true&margin-w=15&margin-h=15" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=nm1412xx&theme=flat&no-bg=true&no-frame=true&margin-w=15&margin-h=15" />
-    <img src="https://github-profile-trophy.vercel.app/?username=nm1412xx&theme=onedark&no-bg=true&no-frame=true&margin-w=15&margin-h=15" />
-  </picture>
-</p>
+**Tipo:** Proyecto visual / ranking  
+**Stack:** HTML · CSS  
+**Demo:** [Ver sitio](https://nm1412xx.github.io/top-5-indi/)  
+**Repositorio:** [Ver repositorio](https://github.com/nm1412xx/top-5-indi)
 
 ---
 
-<!-- ================= RACHA ================= -->
-<h2 align="center">🔥 Racha de contribuciones</h2>
+### 👤 Tarjeta Personal
 
-<p align="center">
-  <picture>
-    <!-- DARK -->
-    <source media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=nm1412xx&theme=onedark&hide_border=true&border_radius=10&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-    <!-- LIGHT -->
-    <source media="(prefers-color-scheme: light)" 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=nm1412xx&theme=graywhite&hide_border=true&border_radius=10" />
-    <!-- FALLBACK -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nm1412xx&theme=onedark&hide_border=true&border_radius=10" />
-  </picture>
-</p>
+Tarjeta web enfocada en presentación personal, identidad visual, habilidades, intereses y proyectos.
+
+**Tipo:** Tarjeta personal / presentación web  
+**Stack:** HTML · CSS  
+**Demo:** [Ver sitio](https://nm1412xx.github.io/tarjeta/)  
+**Repositorio:** [Ver repositorio](https://github.com/nm1412xx/tarjeta)
 
 ---
 
-<!-- ================= SNAKE ================= -->
-<h2 align="center">🐍 Actividad</h2>
+### 🇯🇵 Galería de Japón
+
+Galería web sobre lugares representativos de Japón, con imágenes, enlaces y una estructura visual simple y ordenada.
+
+**Tipo:** Galería / sitio informativo  
+**Stack:** HTML · CSS  
+**Demo:** [Ver sitio](https://nm1412xx.github.io/japan/)  
+**Repositorio:** [Ver repositorio](https://github.com/nm1412xx/japan)
+
+---
+
+### 🇨🇱 Galería de Chile
+
+Sitio tipo galería sobre lugares turísticos y culturales de Chile.
+
+**Tipo:** Galería / sitio informativo  
+**Stack:** HTML · CSS  
+**Demo:** [Ver sitio](https://nm1412xx.github.io/chile/)  
+**Repositorio:** [Ver repositorio](https://github.com/nm1412xx/chile)
+
+---
+
+### 🛡️ Ciberseguridad
+
+Sitio educativo sobre seguridad digital, ataques cibernéticos, prevención, glosario, fuentes y buenas prácticas en internet.
+
+**Tipo:** Página educativa  
+**Stack:** HTML · CSS · JavaScript  
+**Demo:** [Ver sitio](https://nm1412xx.github.io/ciberseguridad/)  
+**Repositorio:** [Ver repositorio](https://github.com/nm1412xx/ciberseguridad)
+
+---
+
+### 📚 Historia
+
+Página educativa sobre la expansión territorial de Chile, incluyendo la Ocupación de la Araucanía y la Guerra del Pacífico.
+
+**Tipo:** Sitio educativo / trabajo escolar  
+**Stack:** HTML · CSS  
+**Demo:** [Ver sitio](https://nm1412xx.github.io/historia/)  
+**Repositorio:** [Ver repositorio](https://github.com/nm1412xx/historia)
+
+---
+
+### 💌 Roxy
+
+Página personal con galería, música, carta y detalles especiales, creada como proyecto visual y emocional.
+
+**Tipo:** Sitio personal  
+**Stack:** HTML · CSS · JavaScript  
+**Demo:** [Ver sitio](https://nm1412xx.github.io/roxy/)  
+**Repositorio:** [Ver repositorio](https://github.com/nm1412xx/roxy)
+
+---
+
+### 🤖 Página de error
+
+Página personalizada para mostrar un error de forma más visual y clara.
+
+**Tipo:** Página 404 / error personalizada  
+**Stack:** HTML · CSS  
+**Demo:** [Ver sitio](https://nm1412xx.github.io/error/)  
+**Repositorio:** [Ver repositorio](https://github.com/nm1412xx/error)
+
+---
+
+## 📌 Repositorios destacados
+
+<div align="center">
+
+<a href="https://github.com/nm1412xx/top-5-indi">
+  <img src="img/top-5.jpg" alt="Top 5 Indie" />
+</a>
+
+<a href="https://github.com/nm1412xx/tarjeta">
+  <img src="img/portafolio.jpg" alt="Tarjeta" />
+</a>
+
+<a href="https://github.com/nm1412xx/japan">
+  <img src="img/japon.jpg" alt="Japan" />
+</a>
+
+<a href="https://github.com/nm1412xx/roxy">
+  <img src="img/roxy.jpg" alt="Roxy" />
+</a>
+
+</div>
+
+---
+
+## 🎯 Objetivo
+
+Seguir mejorando como desarrollador frontend, creando proyectos más completos, aprendiendo nuevas herramientas y fortaleciendo mis habilidades en:
+
+- Diseño web
+- Estructura HTML
+- Estilos CSS
+- JavaScript
+- Responsive Design
+- UI/UX
+- Organización de proyectos en GitHub
+
+---
+
+## 📚 Actualmente aprendiendo
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-básico-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-en%20práctica-38BDF8?style=for-the-badge)
+![UI UX](https://img.shields.io/badge/UI%2FUX-mejorando-8B5CF6?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-en%20formación-22C55E?style=for-the-badge)
+
+</div>
+
+---
+
+## 🏆 Trofeos y logros
+
+<p align="center">
+  <img 
+    src="https://trophy.ryglcloud.net/?username=nm1412xx&theme=onedark&no-bg=true&no-frame=true&margin-w=15&margin-h=15" 
+    alt="Trofeos de GitHub de nm1412xx" 
+  />
+</p>
+
+
+---
+## 🔥 Racha de contribuciones
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=nm1412xx&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+
+</div>
+
+---
+
+## 📊 Actividad
 
 <p align="center">
   <picture>
@@ -187,8 +215,7 @@
 
 ---
 
-<!-- ================= VISITAS ================= -->
-<h2 align="center">📈 Visitas</h2>
+## 👀 Visitas
 
 <p align="center">
   <img src="https://count.getloli.com/@nm1412xx?name=nm1412xx&theme=normal-2&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" />
@@ -196,8 +223,8 @@
 
 ---
 
-<!-- ================= EXTRA PERSONAL ================= -->
-<h2 align="center">🎧 Mi álbum favorito</h2>
+## 🎧 Mi álbum favorito
+
 
 <p align="center">
   <a href="https://open.spotify.com/intl-es/album/0sQR1p7NyAUqMPmWdZ6UBd" target="_blank">
@@ -207,48 +234,28 @@
 
 ---
 
-<!-- ================= CONTACTO ================= -->
-<h2 align="center">🤝 ¿Colaboramos?</h2>
+## 🤝 ¿Colaboramos?
 
-<p align="center">
-  ¿Tenés un proyecto en mente, feedback o una oportunidad?<br>
-  Estoy abierto a colaborar, aprender y seguir creando.
-</p>
-
-<h2 align="center">📬 Contacto</h2>
-
-<p align="center">
-  <a href="https://instagram.com/nm1412xx" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@nm1412xx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  Si eres de <b>celular</b>, redacta un correo en tu app:
-  <br><br>
-  <a href="mailto:nm1412xx@gmail.com?subject=Interés%20en%20tu%20perfil%20de%20GitHub&body=Hola%20Nicolás,%0A%0AHe%20revisado%20tu%20perfil%20de%20GitHub%20y%20me%20ha%20interesado%20tu%20trabajo%20como%20desarrollador%20frontend.%0A%0AMe%20gustaría%20conversar%20contigo%20sobre%20una%20posible%20colaboración.%0A%0AQuedo%20atento%20a%20tu%20respuesta.%0A%0ASaludos,%0A[Nombre]%0A[Empresa]">
-    <img src="https://img.shields.io/badge/📱_App_de_correo-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  Si estás en <b>PC</b>, abre Gmail Web:
-  <br><br>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nm1412xx@gmail.com&su=Interés%20en%20tu%20perfil%20de%20GitHub&body=Hola%20Nicolás,%0A%0AHe%20revisado%20tu%20perfil%20de%20GitHub%20y%20me%20ha%20interesado%20tu%20trabajo%20como%20desarrollador%20frontend.%0A%0AMe%20gustaría%20conversar%20contigo%20sobre%20una%20posible%20colaboración.%0A%0AQuedo%20atento%20a%20tu%20respuesta.%0A%0ASaludos,%0A[Nombre]%0A[Empresa]" target="_blank">
-    <img src="https://img.shields.io/badge/💻_Gmail_Web-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+¿Tienes un proyecto en mente, feedback o una oportunidad?  
+Estoy abierto a colaborar, aprender y seguir creando.
 
 ---
 
-<p align="center">
-  🚀 En constante aprendizaje y mejora como desarrollador frontend
-</p>
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Gracias%20por%20ver&fontSize=32&fontColor=ffffff&animation=fadeIn&theme=onedark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Gracias%20por%20ver&fontSize=32&fontColor=000000&animation=fadeIn&theme=graywhite" />
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Gracias%20por%20ver&fontSize=32&fontColor=ffffff&animation=fadeIn&theme=onedark" />
-  </picture>
-</p>
+## 📬 Contacto
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-nm1412xx-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nm1412xx)
+[![Gmail](https://img.shields.io/badge/Gmail-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nm1412xx@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 En constante aprendizaje y mejora como desarrollador frontend
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:0f172a&height=120&section=footer)
+
+</div>
